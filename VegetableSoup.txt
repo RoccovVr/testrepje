@@ -3,6 +3,10 @@ Vegetable Soup Recipe:
 Ingredients:
  - a pumpkin 
  - five slices of smoked paprika
+<<<<<<< HEAD
  - two onions
+=======
+ - two onions and nog iets
+>>>>>>> new_branch
  - carrots (een)
  - nog iets
